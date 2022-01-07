@@ -3,12 +3,12 @@
 	"description": "This Is My First Hand With Node.js",
 	"keywords": [ "descriptive", "related", "words","freecodecamp" ],
 	"license": "MIT",
-	"version": "2.10.2",
+	"version": "1.0.0",
 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
